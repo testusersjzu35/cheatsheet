@@ -1,0 +1,114 @@
+12/19/2021 04:24:57 PM INFO: Started
+12/19/2021 04:24:57 PM ERROR: list index out of range
+12/19/2021 04:25:48 PM INFO: Started
+12/19/2021 04:25:48 PM ERROR: list index out of range
+12/19/2021 04:26:04 PM INFO: Started
+12/19/2021 04:26:04 PM ERROR: list index out of range
+12/19/2021 04:26:11 PM INFO: Started
+12/19/2021 04:26:12 PM ERROR: list index out of range
+12/19/2021 04:30:09 PM INFO: Modified: ma -> pa
+12/19/2021 04:30:09 PM INFO: Modified: me -> pe
+12/19/2021 04:30:09 PM INFO: Modified: mi -> pi
+12/19/2021 04:30:24 PM INFO: Started
+12/19/2021 04:30:24 PM ERROR: list index out of range
+12/19/2021 04:30:48 PM INFO: Started
+12/19/2021 04:30:48 PM ERROR: list index out of range
+12/19/2021 04:30:58 PM INFO: Started
+12/19/2021 04:30:58 PM ERROR: list index out of range
+12/19/2021 04:31:18 PM INFO: Started
+12/19/2021 04:31:18 PM ERROR: list index out of range
+12/19/2021 04:31:35 PM INFO: Started
+12/19/2021 04:31:35 PM ERROR: list index out of range
+12/19/2021 04:32:12 PM INFO: Started
+12/19/2021 04:32:12 PM INFO: Finished
+12/19/2021 04:32:36 PM INFO: Started
+12/19/2021 04:32:36 PM INFO: Finished
+12/19/2021 04:33:34 PM INFO: Started
+12/19/2021 04:33:34 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account
+12/19/2021 04:33:34 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group.md -> /home/prx/.config/cheat/cheatsheets/personal/az/group.md
+12/19/2021 04:33:34 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/vm -> /home/prx/.config/cheat/cheatsheets/personal/az/vm
+12/19/2021 04:33:34 PM INFO: Finished
+12/19/2021 04:34:52 PM INFO: Started
+12/19/2021 04:34:52 PM ERROR: list index out of range
+12/19/2021 04:35:18 PM INFO: Started
+12/19/2021 04:35:18 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account
+12/19/2021 04:35:18 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/vm -> /home/prx/.config/cheat/cheatsheets/personal/az/vm
+12/19/2021 04:35:18 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group
+12/19/2021 04:35:18 PM INFO: Finished
+12/19/2021 04:36:09 PM INFO: Started
+12/19/2021 04:36:09 PM ERROR: list index out of range
+12/19/2021 04:36:36 PM INFO: Started
+12/19/2021 04:36:36 PM ERROR: pop index out of range
+12/19/2021 04:37:09 PM INFO: Started
+12/19/2021 04:37:09 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account
+12/19/2021 04:37:09 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group
+12/19/2021 04:37:09 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/vm.md -> /home/prx/.config/cheat/cheatsheets/personal/az/vm.md
+12/19/2021 04:37:09 PM INFO: Finished
+12/19/2021 04:38:18 PM INFO: Started
+12/19/2021 04:38:18 PM INFO: Finished
+12/19/2021 04:38:45 PM INFO: Started
+12/19/2021 04:38:45 PM INFO: Finished
+12/19/2021 04:39:35 PM INFO: Started
+12/19/2021 04:39:35 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account
+12/19/2021 04:39:35 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group
+12/19/2021 04:39:35 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/vm.md -> /home/prx/.config/cheat/cheatsheets/personal/az/vm.md
+12/19/2021 04:39:35 PM INFO: Finished
+12/19/2021 04:40:17 PM INFO: Started
+12/19/2021 04:40:17 PM INFO: Finished
+12/19/2021 04:42:43 PM INFO: Started
+12/19/2021 04:42:44 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account
+12/19/2021 04:42:44 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group
+12/19/2021 04:42:44 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/vm.md -> /home/prx/.config/cheat/cheatsheets/personal/az/vm.md
+12/19/2021 04:42:44 PM INFO: Finished
+12/19/2021 04:43:28 PM INFO: Started
+12/19/2021 04:43:28 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account
+12/19/2021 04:43:28 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group
+12/19/2021 04:43:28 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/vm.md -> /home/prx/.config/cheat/cheatsheets/personal/az/vm
+12/19/2021 04:43:28 PM INFO: Finished
+12/19/2021 04:44:23 PM INFO: Started
+12/19/2021 04:44:23 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/vm.md -> /home/prx/.config/cheat/cheatsheets/personal/az/vm
+12/19/2021 04:44:23 PM INFO: Finished
+12/19/2021 04:49:25 PM INFO: Modified: ma -> pa
+12/19/2021 04:49:25 PM INFO: Modified: me -> pe
+12/19/2021 04:49:25 PM INFO: Modified: mi -> pi
+12/19/2021 04:50:26 PM INFO: Modified: ma -> pa
+12/19/2021 04:50:26 PM INFO: Modified: me -> pe
+12/19/2021 04:50:26 PM INFO: Modified: mi -> pi
+12/19/2021 04:52:10 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account.md
+12/19/2021 04:52:10 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group.md
+12/19/2021 04:52:47 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account.md
+12/19/2021 04:52:47 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group.md
+12/19/2021 04:52:55 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account.md
+12/19/2021 04:52:55 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group.md
+12/19/2021 04:54:29 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account.md
+12/19/2021 04:54:29 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group.md
+12/19/2021 04:55:39 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account.md
+12/19/2021 04:55:39 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group.md
+12/19/2021 04:58:08 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account.md
+12/19/2021 04:58:08 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group.md
+12/19/2021 04:59:17 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account.md
+12/19/2021 04:59:17 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group.md
+12/19/2021 04:59:23 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account.md
+12/19/2021 04:59:23 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group.md
+12/19/2021 04:59:41 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account.md
+12/19/2021 04:59:41 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group.md
+12/19/2021 05:00:42 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account.md
+12/19/2021 05:00:42 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group.md
+12/19/2021 05:01:03 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account.md
+12/19/2021 05:01:03 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group.md
+12/19/2021 05:01:22 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account.md
+12/19/2021 05:01:22 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group.md
+12/19/2021 05:01:37 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/account -> /home/prx/.config/cheat/cheatsheets/personal/az/account.md
+12/19/2021 05:01:37 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group -> /home/prx/.config/cheat/cheatsheets/personal/az/group.md
+12/19/2021 05:02:42 PM INFO: Started
+12/19/2021 05:02:42 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group.md -> /home/prx/.config/cheat/cheatsheets/personal/az/group
+12/19/2021 05:02:42 PM INFO: Finished
+12/19/2021 05:03:21 PM INFO: Started
+12/19/2021 05:03:21 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/group.md -> /home/prx/.config/cheat/cheatsheets/personal/az/group
+12/19/2021 05:03:21 PM INFO: Finished
+12/19/2021 05:03:41 PM INFO: Started
+12/19/2021 05:03:41 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/vm.md -> /home/prx/.config/cheat/cheatsheets/personal/az/vm
+12/19/2021 05:03:41 PM INFO: Finished
+12/19/2021 05:04:12 PM INFO: Started
+12/19/2021 05:04:12 PM INFO: Modified: /home/prx/.config/cheat/cheatsheets/personal/az/vm.md -> /home/prx/.config/cheat/cheatsheets/personal/az/vm
+12/19/2021 05:04:12 PM INFO: Finished
