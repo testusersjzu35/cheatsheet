@@ -1,0 +1,10 @@
+---
+syntax: bash
+tags: [ rg, az, group ]
+---
+
+# List Resource Groups
+az group list
+
+# Resource Group Creation
+az group create -l <location> -n <name> 

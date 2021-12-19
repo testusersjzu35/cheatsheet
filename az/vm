@@ -1,0 +1,51 @@
+---
+syntax: bash
+tags: [ vm, az ]
+---
+
+# Start a VM
+az vm start -g <ResourceGroup> -n <Name>
+
+# Stop a VM	(Stop execution but not billing)
+az vm stop -g <ResourceGroup> -n <Name>
+
+# Deallocate a VM (Stop billing)
+az vm deallocate  -g <ResourceGroup> -n <Name>
+
+# Start, Stop Execution (But not billing), Deallocate (Stop Billing), Restart, Redeploy, Delete
+az vm start/stop/deallocate/restart/redeploy/delete -g <ResourceGroup> -n <Name>
+
+# List VMs
+az vm list
+
+# Get info about a VM
+az vm show -g <ResourceGroup> -n <Name>
+
+# VM Creation with SSH Keys
+az vm create \ 
+	-n <VMname> \
+	-g <ResourceGroup> \
+	--image <DistributionName> \
+	--ssh-key-values <pub_route_file> \
+	--admin-username <admin_name> \
+	--location <locacion_VM> \
+	--size <VMsize>
+
+# List VM Images List
+az vm image list
+
+# Show VM PublicIP
+az vm show -d \
+	-g <Grupo_de_recursos> \
+	-n <Nombre_VM> \
+	--query "publicIps" \
+	-o tsv
+
+# List VM Sizes
+az vm list-sizes -l <location> -o tsv
+
+
+
+
+
+
