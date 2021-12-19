@@ -1,0 +1,10 @@
+---
+syntax: bash
+tags: [ remote, add, git, origin ]
+---
+
+# Add remote repo
+git remote add origin <url>
+
+# Verify remote added repo
+git remove -v
