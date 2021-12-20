@@ -25,6 +25,9 @@ az vm create \
 	--location <locacion_VM> \
 	--size <VMsize>
 
+# Get Info about VM
+az vm get-instance-view --name <VMname> -g <ResourceGroup> --output table
+
 # List VMs
 az vm list
 
@@ -46,3 +49,4 @@ az vm show -g <ResourceGroup> -n <Name>
 
 # Add a data disk to a VM
 az vm disk attach -g <ResourseGroup> --vm-name <Name> --disk <NameForDisk> --size-gb <gb> --new
+
